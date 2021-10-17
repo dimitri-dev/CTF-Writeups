@@ -1,13 +1,14 @@
-# Challenge Name
+# The most secure password check
 
 > Category: Web
+
 > Points: 40
 
 ## Challenge Description
 
-> (translated) Ivan has always wanted to know the best way if the inserted password is correct or not. After a long research session, he discovered a way he could do that. In that regard, he has created a very secure password and made a website so he could test his idea.
+> (translated): Ivan has always wanted to know the best way if the inserted password is correct or not. After a long research session, he discovered a way he could do that. In that regard, he has created a very secure password and made a website so he could test his idea.
 
-> (native) Ivan je oduvijek htio znati kako najbolje provjeriti je li upisana lozinka točna ili ne. Nakon dugo istraživanja, otkrio je na koji način bi to mogao napraviti. U tu svrhu, smislio je jednu jako dobru lozinku i napravio stranicu kako bi testirao tu svoju ideju. 
+> (native): Ivan je oduvijek htio znati kako najbolje provjeriti je li upisana lozinka točna ili ne. Nakon dugo istraživanja, otkrio je na koji način bi to mogao napraviti. U tu svrhu, smislio je jednu jako dobru lozinku i napravio stranicu kako bi testirao tu svoju ideju. 
 
 ## Analysis
 
