@@ -18,7 +18,7 @@
 
 Upon visiting the website we get a decent looking website with a file upload form.
 
-![decrypted](website.PNG)
+![decrypted](website.png)
 
 Simply pressing on the 'Upload' button we get a success message and a link to our uploaded item.
 
@@ -26,7 +26,7 @@ Since the link was on 'view.php?id=10', I started brute-forcing the id parameter
 
 At id=8, we get greeted with our flag.
 
-![decrypted](solution.PNG)
+![decrypted](solution.png)
 
 
 ## FLAG
