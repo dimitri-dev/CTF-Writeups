@@ -14,7 +14,7 @@
 
 Without even opening the website, this sounds like a low level cookie task.
 
-![decrypted](website.PNG)
+![decrypted](website.png)
 
 Opening inspect element and going to the Storage tab, we find a cookie named "account" with a value of "guest".
 
@@ -22,7 +22,7 @@ Opening inspect element and going to the Storage tab, we find a cookie named "ac
 
 Let's change that to admin, and open the flag website.
 
-![decrypted](solution.PNG)
+![decrypted](solution.png)
 
 ## FLAG
 
