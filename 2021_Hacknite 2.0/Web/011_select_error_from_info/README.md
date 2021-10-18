@@ -25,7 +25,7 @@ Since the value of that request is successful, it gives us a sentence about lion
 
 Let's try to throw some SQL queries together with this.
 
-We notice that when we do ```info.php?zivotinja=Lav' AND SUBSTRING((SELECT username FROM users LIMIT 1), 1, 1) = 'a```` it returns the same string.
+We notice that when we do ```info.php?zivotinja=Lav' AND SUBSTRING((SELECT username FROM users LIMIT 1), 1, 1) = 'a``` it returns the same string.
 
 The solution we came up with here isn't ideal by any means, because it is literally a bruteforce JS script, that uses an alphanumeric string and goes letter by letter to grab the password hash and admin name.
 
