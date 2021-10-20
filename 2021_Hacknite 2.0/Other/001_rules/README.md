@@ -8,6 +8,8 @@
 
 > translated: Since you are still reading this, it's possible you haven't read the rules thoroughly, and missed a flag already. Try again.
 
+> native: S obzirom da čitate ovo, velika je mogućnost da niste temeljito pročitali pravila te ste time već propustili jedno rješenje. Probajte još jednom.
+
 ## Analysis
 
 This is a segment of the rules that contains an "example" flag:
